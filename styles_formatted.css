@@ -1,0 +1,41 @@
+
+                .<data:thumbClassName/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 385, &quot;385:184&quot;).cssEscaped'/>);}
+            
+
+
+                    .<data:className/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 385, &quot;385:185&quot;).cssEscaped'/>);}
+                    @media (max-width: 285px) { .<data:className/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 285, &quot;285:185&quot;).cssEscaped'/>);} }
+                    @media (max-width: 385px) and (min-width: 286px) { .<data:className/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 385, &quot;385:185&quot;).cssEscaped'/>);} }
+                    @media (max-width: 485px) and (min-width: 386px) { .<data:className/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 485, &quot;485:185&quot;).cssEscaped'/>);} }
+                    @media (max-width: 745px) and (min-width: 486px) { .<data:className/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 585, &quot;585:185&quot;).cssEscaped'/>);} }
+                
+
+
+                    @media (min-width: 746px) { .hero .<data:thumbClassName/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 800, &quot;800:272&quot;).cssEscaped'/>);} }
+                    @media (min-width: 1545px) { .hero .<data:thumbClassName/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 1185, &quot;1185:272&quot;).cssEscaped'/>);} }
+                    @media (max-width: 400px) { .hero .<data:thumbClassName/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 400, &quot;1:1&quot;).cssEscaped'/>); } }
+                    @media (min-width: 401px) and (max-width: 745px) { .hero .<data:thumbClassName/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 745, &quot;745:400&quot;).cssEscaped'/>); } }
+                
+
+
+          .header-widget {
+            background-position: <data:blog.locale.languageAlignment/>;
+            background-repeat: no-repeat;
+            background-size: cover;
+          }
+      
+
+
+                    @media (min-width: 746px) { .hero .<data:thumbClassName/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 800, &quot;800:272&quot;).cssEscaped'/>);} }
+                    @media (min-width: 1545px) { .hero .<data:thumbClassName/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 1185, &quot;1185:272&quot;).cssEscaped'/>);} }
+                    @media (max-width: 400px) { .hero .<data:thumbClassName/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 400, &quot;1:1&quot;).cssEscaped'/>); } }
+                    @media (min-width: 401px) and (max-width: 745px) { .hero .<data:thumbClassName/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 745, &quot;745:400&quot;).cssEscaped'/>); } }
+                
+
+
+                    .<data:className/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 385, &quot;385:185&quot;).cssEscaped'/>);}
+                    @media (max-width: 285px) { .<data:className/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 285, &quot;285:185&quot;).cssEscaped'/>);} }
+                    @media (max-width: 385px) and (min-width: 286px) { .<data:className/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 385, &quot;385:185&quot;).cssEscaped'/>);} }
+                    @media (max-width: 485px) and (min-width: 386px) { .<data:className/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 485, &quot;485:185&quot;).cssEscaped'/>);} }
+                    @media (max-width: 745px) and (min-width: 486px) { .<data:className/> {background-image:url(<b:eval expr='resizeImage(data:post.featuredImage, 585, &quot;585:185&quot;).cssEscaped'/>);} }
+                
